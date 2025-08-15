@@ -8,4 +8,4 @@ lst.sort()
 l = lst[-1]
 s = lst[0]
 print("Largest is ",l)
-print("Smallesy is ",s)
+print("Smallest is ",s)
